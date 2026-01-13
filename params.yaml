@@ -1,0 +1,8 @@
+qual_stddev: [0.1, 0.5, 1.0, 1.5, 3.0, 4.0] # Nest quality noise
+threshold_stddev: [0.1, 0.6, 1.2] # Threshold noise
+n: 500 # number of ants
+threshold_mean: 4.5 # threshold
+
+# NEW:
+quorum_k: 20              # e.g. 10, 20, 30 (set 0 to disable quorum)
+recruit_strength: 0.05    # start small (0 disables recruitment)
