@@ -31,6 +31,7 @@ Detailed figures and analysis are available in `report.pdf`.
 ```bash
 pip install numpy matplotlib pyyaml
 python main.py
+```
 
 ## Author
 
